@@ -12,7 +12,7 @@
 [![Cloudflare](https://img.shields.io/badge/Security-Cloudflare-orange?style=for-the-badge&logo=cloudflare)](https://cloudflare.com)
 
 </div>
----
+
 
 ## 🚀 Live Platform
 
