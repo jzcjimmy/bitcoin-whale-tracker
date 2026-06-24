@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="ourscrypto.png" alt="OursCrypto Logo" width="120" height="120" />
+
 # 🐋 OursCrypto — Free Bitcoin Whale Tracker & BTC Market Dashboard
 
 > Real-time Bitcoin whale monitoring, price prediction, and on-chain market analysis.  
@@ -8,6 +11,7 @@
 [![Vercel](https://img.shields.io/badge/Deployed-Vercel-blue?style=for-the-badge&logo=vercel)](https://vercel.com)
 [![Cloudflare](https://img.shields.io/badge/Security-Cloudflare-orange?style=for-the-badge&logo=cloudflare)](https://cloudflare.com)
 
+</div>
 ---
 
 ## 🚀 Live Platform
