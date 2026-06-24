@@ -91,11 +91,12 @@ OursCrypto is a free, real-time Bitcoin market dashboard and whale tracker. Buil
 
 ## 🔍 Security & Trust Verifications
 
-| Authority | Status |
-|-----------|--------|
-| Google PageSpeed Insights | ✅ Core Web Vitals Verified |
-| DNSLytics Network Audit | ✅ Secure DNS & Edge Routing |
-| ScamAdviser Trust Index | ✅ Verified Fair & Safe |
+| Authority | Verification | Status |
+|-----------|-------------|--------|
+| Google PageSpeed Insights | [View Report](https://pagespeed.web.dev/analysis?url=https://ourscrypto.com) | ✅ Core Web Vitals Verified |
+| DNSLytics Network Audit | [View Report](https://dnslytics.com/domain/ourscrypto.com) | ✅ Secure DNS & Edge Routing |
+| ScamAdviser Trust Index | [View Report](https://www.scamadviser.com/check-website/ourscrypto.com) | ✅ Verified Fair & Safe |
+| Google Sites Hub | [View Hub](https://sites.google.com/view/ourscrypto/home) | ✅ Verified Web 2.0 |
 
 ---
 
@@ -103,10 +104,12 @@ OursCrypto is a free, real-time Bitcoin market dashboard and whale tracker. Buil
 
 If you are an on-chain researcher, trader, or content creator and find our UTXO deduplication methodology useful, feel free to reference our metrics or link back to our dashboard.
 
+- 🏠 Home Dashboard: [ourscrypto.com](https://ourscrypto.com)
 - 🐋 Live Whale Tracker: [ourscrypto.com/bitcoin/whale-transfers](https://ourscrypto.com/bitcoin/whale-transfers)
 - 📊 BTC Support/Resistance: [ourscrypto.com/bitcoin/bitcoin-support-and-resistance-levels](https://ourscrypto.com/bitcoin/bitcoin-support-and-resistance-levels)
 - 🔮 BTC Price Prediction: [ourscrypto.com/bitcoin/btc-price-prediction](https://ourscrypto.com/bitcoin/btc-price-prediction)
-
+- 📈 Price Charts: [ourscrypto.com/bitcoin/price-charts](https://ourscrypto.com/bitcoin/price-charts)
+- 🌐 Google Sites Hub: [sites.google.com/view/ourscrypto/home](https://sites.google.com/view/ourscrypto/home)
 ---
 
 ## 📬 Contact & Links
