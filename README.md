@@ -76,8 +76,6 @@ OursCrypto is a free, real-time Bitcoin market dashboard and whale tracker. Buil
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### 🏠 Home Dashboard
 ![OursCrypto Home Dashboard](screenshot-homepage.png)
 
@@ -115,7 +113,8 @@ If you are an on-chain researcher, trader, or content creator and find our UTXO 
 ## 📬 Contact & Links
 
 - 🌐 Website: [ourscrypto.com](https://ourscrypto.com)
-- 🐦 Twitter/X: @jzcjimmy
+- 🐦 Twitter/X: [@jzcjimmy](https://x.com/jzcjimmy)
+- 💬 Telegram: [@czm2024](https://t.me/czm2024)
   
 
 ---
